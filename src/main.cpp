@@ -197,6 +197,7 @@ void DoTest(outClass<T> &out)
 */
 
 
+//main test
 int main(void) {
 	//test_for_array_stack();
 	//test_array_queue();
